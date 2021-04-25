@@ -6,7 +6,11 @@
 > Application propoused on Next Level Week #5.
 
 <p>
-  <img alt="Demo" src="" />
+  <img alt="Demo" src="https://raw.githubusercontent.com/luan11/podcastr/main/docs/screenshot.png" />
+</p>
+
+<p>
+  <img alt="Demo" src="https://raw.githubusercontent.com/luan11/podcastr/main/docs/screenshot-2.png" />
 </p>
 
 ## Install
