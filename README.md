@@ -21,8 +21,15 @@ yarn install
 
 ## Usage
 
+### Berofe all, run the server
+
 ```sh
 yarn server
+```
+
+### Afer run the server, run the application
+
+```sh
 yarn dev
 ```
 
